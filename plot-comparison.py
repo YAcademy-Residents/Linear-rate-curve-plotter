@@ -1,6 +1,10 @@
 import matplotlib.pyplot as plt
 
 # Set start and end points of each curve
+# To get the curve data for Compound and Aave
+# mouse over the graph on their UIs
+# Compound: https://app.compound.finance/markets?market=v2
+# Aave: https://app.aave.com/markets/?marketName=proto_mainnet
 
 # There are 3 key points:
 # 1. y-intercept (0% utilization ratio)
