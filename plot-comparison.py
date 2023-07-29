@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # 1. y-intercept (0% utilization ratio)
 # 2. kink point (usually near 80% utilization ratio)
 # 3. max rate at 100% utilization ratio
-plt.plot([0,90,100],[5,10,20], label='Temple')
+plt.plot([0,90,100],[5,10,20], label='Demo')
 plt.plot([0,80,100],[0,5,32], label='Compound')
 plt.plot([0,80,100],[0,5,80], label='Aave')
 
